@@ -1,0 +1,9 @@
+Workout Schedule
+
+Sunday - Chest and Shoulders
+Monday - Rest
+Tuesday - Rest
+Wednesday - Back and Biceps
+Thursday - Rest
+Friday - Legs
+Saturday - Rest
